@@ -26,6 +26,7 @@ Application using SQLite for database, Node.js on the server side and ReactJs on
     - npm run dev
  - Frontend
     - npm start
+    
 **_For deployment_**
 - The application has not been deployed yet.
 
@@ -33,7 +34,7 @@ Application using SQLite for database, Node.js on the server side and ReactJs on
 Breno Ribeiro do Val - Following the instructions provided.
 
 #### License and copyright
-MIT.
+MIT
 
 #### Acknowledgments
 Thanks to Diego Fernandes from Rocketseat who provided this bootcamp.
